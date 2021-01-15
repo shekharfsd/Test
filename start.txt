@@ -6,6 +6,7 @@ git hub
 eclipse
 VS code
 
+STS
+Angular
 
-
-final copy
+Done
