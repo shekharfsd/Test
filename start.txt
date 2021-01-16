@@ -1,4 +1,4 @@
-
+version 1.0
 hello
 welcome
 git
@@ -8,5 +8,6 @@ VS code
 
 STS
 Angular
+React
 
-Done
+done
